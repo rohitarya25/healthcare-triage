@@ -66,7 +66,7 @@ Advice Generation
 
 ---
 
-## 🚦 Key Features
+## 🚦 Key Features of the project
 
 ### 🩺 Disease Prediction
 
